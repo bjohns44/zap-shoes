@@ -1,0 +1,500 @@
+www.zappos.com/olukai-ohana-black-black	OluKai	Ohana	65.00	5
+www.zappos.com/olukai-kono-ii-ray-toffee	OluKai	Kono II	110.00	5
+www.zappos.com/onitsuka-tiger-by-asics-serrano-mint-white	Onitsuka Tiger by Asics	Serrano	80.00	5
+www.zappos.com/product/7165607/color/381946	Onitsuka Tiger by Asics	Mexico 66	80.00	5
+www.zappos.com/nike-free-run-3-team-orange-anthracite-pure-platinum-reflective-silver	Nike	Free Run+ 3	100.00	5
+www.zappos.com/macbeth-eliot-vegan-dark-grey-white-blue	Macbeth	Eliot Vegan	55.00	4
+www.zappos.com/macbeth-caulfield-dark-brown-gum	Macbeth	Caulfield	75.00	4
+www.zappos.com/macbeth-madrid-black-black	Macbeth	Madrid	60.00	4
+www.zappos.com/macbeth-eliot-vegan-black-patches	Macbeth	Eliot Vegan	55.00	4
+www.zappos.com/macbeth-gatsby-black-gum	Macbeth	Gatsby	65.00	4
+www.zappos.com/macbeth-adams-dark-grey-white	Macbeth	Adams	45.00	4
+www.zappos.com/macbeth-caulfield-black-gum	Macbeth	Caulfield	75.00	4
+www.zappos.com/converse-chuck-taylor-all-star-seasonal-slip-ox-mirage-gray	Converse	Chuck Taylor	55.00	4
+www.zappos.com/converse-chuck-taylor-all-star-seasonal-slip-ox-a-blue	Converse	Chuck Taylor	55.00	4
+www.zappos.com/dc-court-graffik-se-black-dark-charcoal	DC	Court Graffik SE	65.00	5
+www.zappos.com/converse-chuck-taylor-all-star-seasonal-slip-ox-red-clay	Converse	Chuck Taylor	55.00	4
+www.zappos.com/dc-court-graffik-se-white-black-green	DC	Court Graffik SE	65.00	5
+www.zappos.com/lakai-manchester-select-black-grey-cyan-suede	Lakai	Manchester Select	61.00	5
+www.zappos.com/product/8090843/color/3	BOSS Black	Dreper US	225.00	5
+www.zappos.com/dvs-shoe-company-torey-black-suede-sp-13	DVS Shoe Company	Torey	66.00	5
+www.zappos.com/macbeth-gatsby-antique-brown	Macbeth	Gatsby	80.00	4
+www.zappos.com/skechers-mariner-dark-brown-crazyhorse-leather	SKECHERS	Mariner	65.00	4
+www.zappos.com/skechers-midnight-black-smooth-leather	SKECHERS	Midnight	64.95	4
+www.zappos.com/skechers-urbantrack-browser-black~1	SKECHERS	Urbantrack - Browser	64.90	4
+www.zappos.com/skechers-urbantrack-browser-brown	SKECHERS	Urbantrack - Browser	64.90	4
+www.zappos.com/skechers-heisman-black	SKECHERS	Heisman	69.95	5
+www.zappos.com/skechers-heisman-dark-brown	SKECHERS	Heisman	69.95	5
+www.zappos.com/a-testoni-plain-toe-lace-up-oxford-nappa-nero	A. Testoni	Plain Toe Lace Up Oxford	515.00	5
+www.zappos.com/adidas-originals-samba-leather-white-navy	adidas Originals	Samba	60.00	4
+www.zappos.com/cobian-arv2-clay	Cobian	ARV2	30.00	4
+www.zappos.com/a-testoni-cap-toe-lace-up-oxford-black-calf	A. Testoni	Cap Toe Lace Up Oxford	515.00	4
+www.zappos.com/adidas-originals-samba-leather-white-light-scarlet-gum	adidas Originals	Samba	60.00	4
+www.zappos.com/adidas-originals-samba-leather-white-fairway-gum	adidas Originals	Samba	60.00	4
+www.zappos.com/avia-a5018m-white-chrome-silver-submarine	Avia	A5018M	45.00	4
+www.zappos.com/avia-a5018m-white-black-varsity-red-chrome-silver	Avia	A5018M	45.00	4
+www.zappos.com/a-testoni-penny-loafer-mocassin-coffee	A. Testoni	Penny Loafer Mocassin	395.00	5
+www.zappos.com/cobian-arv2-java	Cobian	ARV2	30.00	4
+www.zappos.com/skechers-diameter-vassell-black-tan	SKECHERS	Diameter-Vassell	74.95	5
+www.zappos.com/teva-gnarskandle-black	Teva	Gnarskandle	55.00	5
+www.zappos.com/skechers-orton-fario-desert-crazyhorse	SKECHERS	Orton - Fario	79.95	3
+www.zappos.com/olukai-hokua-black	OluKai	Hokua	70.00	5
+www.zappos.com/cobian-suede-astro-jump-chocolate	Cobian	Suede Astro Jump	28.00	5
+www.zappos.com/cobian-suede-astro-jump-charcoal	Cobian	Suede Astro Jump	28.00	5
+www.zappos.com/mountrek-backwoods-crossing-mid-brown	Mountrek	Backwoods Crossing Mid	128.00	5
+www.zappos.com/mountrek-backwoods-crossing-low-tan	Mountrek	Backwoods Crossing Low	118.00	5
+www.zappos.com/mountrek-backwoods-crossing-mid-tan	Mountrek	Backwoods Crossing Mid	128.00	5
+www.zappos.com/skechers-talus-burk-coffee	SKECHERS	Talus - Burk	69.95	5
+www.zappos.com/skechers-talus-burk-black-charcoal	SKECHERS	Talus - Burk	69.95	5
+www.zappos.com/skechers-diameter-garzo-black	SKECHERS	Diameter - Garzo	79.95	5
+www.zappos.com/cobian-super-jump-black	Cobian	Super Jump	30.00	3
+www.zappos.com/kenneth-cole-new-york-big-winner-brown	Kenneth Cole New York	Big Winner	178.00	3
+www.zappos.com/kenneth-cole-new-york-big-winner-black	Kenneth Cole New York	Big Winner	178.00	3
+www.zappos.com/ecco-sport-costa-slide-sandal-warm-grey-licorice-desert-night-oil-suede	ECCO Sport	Costa Slide Sandal	110.00	3
+www.zappos.com/teva-terra-fi-lite-black	Teva	Terra Fi Lite	85.00	3
+www.zappos.com/teva-jetter-slide-cigar	Teva	Jetter Slide	70.00	3
+www.zappos.com/teva-bomber-sandal-dark-olive	Teva	Bomber Sandal	95.00	3
+www.zappos.com/teva-bomber-sandal-black	Teva	Bomber Sandal	95.00	3
+www.zappos.com/teva-jetter-thong-cigar	Teva	Jetter Thong	65.00	3
+www.zappos.com/teva-slimkosi-black	Teva	Slimkosi	65.00	3
+www.zappos.com/teva-terra-fi-lite-firetread-beluga	Teva	Terra Fi Lite	85.00	3
+www.zappos.com/teva-terra-fi-lite-firetread-midnight	Teva	Terra Fi Lite	85.00	3
+www.zappos.com/teva-ladera-toe-post-brown	Teva	Ladera Toe Post	75.00	3
+www.zappos.com/teva-jetter-cigar	Teva	Jetter	85.00	3
+www.zappos.com/teva-ladera-slide-brown	Teva	Ladera Slide	80.00	3
+www.zappos.com/boss-black-remor-medium-blue	BOSS Black	Remor	125.00	3
+www.zappos.com/boss-black-remor-medium-grey	BOSS Black	Remor	125.00	3
+www.zappos.com/onitsuka-tiger-by-asics-serrano-orange-off-white	Onitsuka Tiger by Asics	Serrano	70.00	5
+www.zappos.com/onitsuka-tiger-by-asics-tai-chi-black-red~2	Onitsuka Tiger by Asics	Tai Chi	85.00	5
+www.zappos.com/onitsuka-tiger-by-asics-serrano-white-navy	Onitsuka Tiger by Asics	Serrano	70.00	5
+www.zappos.com/nike-tiempo-mystic-iv-fg-white-total-crimson-black	Nike	Tiempo Mystic IV FG	80.00	5
+www.zappos.com/frye-west-woven-driver-cognac-soft-vintage-leather	Frye	West Woven Driver	178.00	5
+www.zappos.com/nike-solarsoft-mule-game-royal-summit-white-black	Nike	Solarsoft Mule	55.00	5
+www.zappos.com/nike-solarsoft-moccasin-black-summit-white-dark-grey	Nike	Solarsoft Moccasin	65.00	5
+www.zappos.com/nike-solarsoft-moccasin-team-orange-summit-white-black	Nike	Solarsoft Moccasin	65.00	5
+www.zappos.com/nike-solarsoft-rache-black-dark-grey-summit-white	Nike	Solarsoft Rache	55.00	5
+www.zappos.com/nike-solarsoft-mule-black-summit-white-dark-grey	Nike	Solarsoft Mule	55.00	5
+www.zappos.com/a-testoni-calf-loafer-with-ornament-caramel	A. Testoni	Calf Loafer with Ornament	625.00	5
+www.zappos.com/macbeth-adams-camo	Macbeth	Adams	45.00	5
+www.zappos.com/macbeth-adams-black-cement	Macbeth	Adams	45.00	5
+www.zappos.com/adidas-turf-hog-lx-low-baseball-black-running-white-metallic-silver-b	adidas	Turf Hog LX Low - Baseball	60.00	5
+www.zappos.com/adidas-turf-hog-lx-mid-baseball-black-running-white-metallic-silver	adidas	Turf Hog LX Mid - Baseball	65.00	5
+www.zappos.com/converse-chuck-taylor-all-star-multi-tongue-ox-charcoal	Converse	Chuck Taylor	55.00	5
+www.zappos.com/ecco-collin-wingtip-tie-ombre	ECCO	Collin Wingtip Tie	130.00	5
+www.zappos.com/converse-chuck-taylor-all-star-multi-tongue-ox-carmine-rose	Converse	Chuck Taylor	55.00	5
+www.zappos.com/converse-chuck-taylor-all-star-multi-tongue-ox-b-blue	Converse	Chuck Taylor	55.00	5
+www.zappos.com/ecco-collin-wingtip-tie-wild-dove	ECCO	Collin Wingtip Tie	130.00	5
+www.zappos.com/kenneth-cole-new-york-sail-boat-brown	Kenneth Cole New York	Sail Boat	118.00	5
+www.zappos.com/sperry-kids-authentic-original-infant-toddler-two-tone-brown-leather	Sperry Kids	Authentic Original (Infant/Toddler)	55.00	5
+www.zappos.com/keds-champion-solid-army-twill-red	Keds	Champion Solid Army Twill	45.00	5
+www.zappos.com/keds-champion-solid-army-twill-rust	Keds	Champion Solid Army Twill	45.00	5
+www.zappos.com/keds-champion-solid-army-twill-cobblestone	Keds	Champion Solid Army Twill	45.00	5
+www.zappos.com/keds-champion-solid-army-twill-blue	Keds	Champion Solid Army Twill	45.00	5
+www.zappos.com/lakai-howard-red-suede	Lakai	Howard	72.00	5
+www.zappos.com/lakai-griffin-grey-suede	Lakai	Griffin	63.00	5
+www.zappos.com/lakai-howard-gargoyle-suede	Lakai	Howard	72.00	5
+www.zappos.com/quiksilver-kelly-slater-3-white-grey-grey	Quiksilver	Kelly Slater 3	40.00	5
+www.zappos.com/quiksilver-kauai-white-grey-navy	Quiksilver	Kauai	28.00	5
+www.zappos.com/lakai-howard-black-suede	Lakai	Howard	72.00	5
+www.zappos.com/quiksilver-unafrayed-3-olive-black-black	Quiksilver	Unafrayed 3	26.00	5
+www.zappos.com/lakai-griffin-green-blue-suede	Lakai	Griffin	63.00	5
+www.zappos.com/lakai-griffin-black-grey-suede	Lakai	Griffin	63.00	5
+www.zappos.com/quiksilver-bali-black-rasta	Quiksilver	Bali	26.00	5
+www.zappos.com/quiksilver-kelly-slater-3-black-grey-off-white	Quiksilver	Kelly Slater 3	40.00	5
+www.zappos.com/quiksilver-kauai-black-black-blue	Quiksilver	Kauai	28.00	5
+www.zappos.com/quiksilver-unafrayed-3-grey-black-black	Quiksilver	Unafrayed 3	26.00	5
+www.zappos.com/quiksilver-renovation-3-dark-brown-brown-gum	Quiksilver	Renovation 3	65.00	5
+www.zappos.com/quiksilver-bali-tan-brown-tan	Quiksilver	Bali	26.00	5
+www.zappos.com/quiksilver-bondi-brown-brown-gum	Quiksilver	Bondi	72.00	5
+www.zappos.com/quiksilver-carver-nubuck-4-grey-grey-dark-grey	Quiksilver	Carver Nubuck 4	32.00	5
+www.zappos.com/quiksilver-unafrayed-3-black-grey-black	Quiksilver	Unafrayed 3	26.00	5
+www.zappos.com/polo-ralph-lauren-cantor-low-tan	Polo Ralph Lauren	Cantor Low	75.00	4
+www.zappos.com/product/7577034/color/3395	Original Penguin	Moby Hi	120.00	4
+www.zappos.com/original-penguin-torpengo-navy-limeade	Original Penguin	Torpengo	110.00	4
+www.zappos.com/mountrek-backwoods-crossing-low-brown	Mountrek	Backwoods Crossing Low	118.00	4
+www.zappos.com/original-penguin-front-white-high-rise-red	Original Penguin	Front	99.00	3
+www.zappos.com/original-penguin-melt-pale-khaki	Original Penguin	Melt	99.00	1
+www.zappos.com/donald-j-pliner-geva-black	Donald J Pliner	Geva	228.00	1
+www.zappos.com/donald-j-pliner-gui-whiskey	Donald J Pliner	Gui	228.00	1
+www.zappos.com/skechers-gorun-2-lime-green	SKECHERS	GOrun 2	80.00	1
+www.zappos.com/donald-j-pliner-gui-black	Donald J Pliner	Gui	228.00	1
+www.zappos.com/donald-j-pliner-gevan-black	Donald J Pliner	Gevan	228.00	1
+www.zappos.com/donald-j-pliner-geva-saddle	Donald J Pliner	Geva	228.00	1
+www.zappos.com/kenneth-cole-reaction-mystery-planet-black	Kenneth Cole Reaction	Mystery Planet	88.00	1
+www.zappos.com/product/7891099/color/11	Kenneth Cole Reaction	Dare 4 Difference	88.00	1
+www.zappos.com/kenneth-cole-new-york-sail-boat-taupe	Kenneth Cole New York	Sail Boat	118.00	1
+www.zappos.com/kenneth-cole-new-york-stage-star-beige	Kenneth Cole New York	Stage Star	148.00	1
+www.zappos.com/kenneth-cole-new-york-stage-star-grey	Kenneth Cole New York	Stage Star	148.00	1
+www.zappos.com/havaianas-urban-premium-flip-flops-black-grey	Havaianas	Urban Premium Flip Flops	40.00	5
+www.zappos.com/dvs-shoe-company-revival-black-nubuck	DVS Shoe Company	Revival	60.00	5
+www.zappos.com/dvs-shoe-company-revival-white-white-leather	DVS Shoe Company	Revival	60.00	5
+www.zappos.com/dvs-shoe-company-francisco-black-cord-sport	DVS Shoe Company	Francisco	25.00	4
+www.zappos.com/dvs-shoe-company-gavin-ct-black-black-canvas	DVS Shoe Company	Gavin CT	52.00	5
+www.zappos.com/dc-court-graffik-white-white-battleship	DC	Court Graffik	60.00	5
+www.zappos.com/dc-pure-white-battleship-white	DC	Pure	60.00	5
+www.zappos.com/vans-authentic-lo-pro-espresso-true-white	Vans	Authentic	45.00	5
+www.zappos.com/dvs-shoe-company-gavin-ct-black-chambray	DVS Shoe Company	Gavin CT	55.00	5
+www.zappos.com/dc-cole-pro-black-black-battleship	DC	Cole Pro	65.00	5
+www.zappos.com/vans-stat-natural-gold	Vans	Stat	90.00	5
+www.zappos.com/vans-secant-natural-gold	Vans	Secant	85.00	5
+www.zappos.com/vans-secant-black-white	Vans	Secant	85.00	5
+www.zappos.com/vans-variable-natural-charcoal-gold	Vans	Variable	75.00	4
+www.zappos.com/vans-av-native-american-low-native-palms-navy-black	Vans	AV Native American Low	60.00	4
+www.zappos.com/vans-foghorn-twill-chili-pepper	Vans	Foghorn	65.00	5
+www.zappos.com/vans-rata-vulc-stripes-natural-black	Vans	Rata Vulc	52.00	4
+www.zappos.com/nike-revolution-2-wolf-grey-cool-grey-volt-black	Nike	Revolution 2	55.00	4
+www.zappos.com/nike-air-serve-return-white-anthracite-pure-platinum	Nike	Air Serve Return	65.00	3
+www.zappos.com/nike-air-max-command-leather-white-dark-grey-volt-dark-grey	Nike	Air Max Command Leather	100.00	5
+www.zappos.com/nike-bruin-low-black-whie-anthracite	Nike	Bruin - Low	75.00	5
+www.zappos.com/nike-backboard-ii-mid-black-neutral-grey-white-hyper-red	Nike	Backboard II Mid	65.00	5
+www.zappos.com/nike-bruin-low-white-game-royal	Nike	Bruin - Low	75.00	5
+www.zappos.com/nike-backboard-ii-mid-cool-grey-black-white-vivid-orange	Nike	Backboard II Mid	65.00	5
+www.zappos.com/nike-backboard-ii-black-game-royal-summit-white	Nike	Backboard II	60.00	4
+www.zappos.com/dc-cabo-black-white	DC	Cabo	35.00	5
+www.zappos.com/dvs-shoe-company-torey-sky-blue-suede	DVS Shoe Company	Torey	66.00	5
+www.zappos.com/boss-black-drep-us-white	BOSS Black	Drep US	195.00	4
+www.zappos.com/dvs-shoe-company-inmate-burgundy-suede-sp-13	DVS Shoe Company	Inmate	60.00	4
+www.zappos.com/dvs-shoe-company-inmate-black-gum-suede	DVS Shoe Company	Inmate	60.00	4
+www.zappos.com/original-penguin-del-mar-black	Original Penguin	Del Mar	59.00	4
+www.zappos.com/donald-j-pliner-emeri-navy	Donald J Pliner	Emeri	318.00	4
+www.zappos.com/donald-j-pliner-veedasp-black-red	Donald J Pliner	Veedasp	248.00	4
+www.zappos.com/clarks-biofix-2-black-nubuck	Clarks	Biofix 2	110.00	5
+www.zappos.com/clarks-biofix-2-brown-leather	Clarks	Biofix 2	110.00	5
+www.zappos.com/clarks-biofix-2-brown-nubuck	Clarks	Biofix 2	110.00	5
+www.zappos.com/dvs-shoe-company-comanche-black-white-nubuck	DVS Shoe Company	Comanche	76.00	5
+www.zappos.com/sperry-top-sider-a-o-2-eye-canvas-navy-canvas	Sperry Top-Sider	A/O 2 Eye Canvas 	80.00	5
+www.zappos.com/onitsuka-tiger-by-asics-mexico-66-white-victoria-blue	Onitsuka Tiger by Asics	Mexico 66	80.00	5
+www.zappos.com/onitsuka-tiger-by-asics-tai-chi-white-black1	Onitsuka Tiger by Asics	Tai Chi	85.00	5
+www.zappos.com/reebok-lifestyle-classic-leather-brk-sc-railroad-grey-club-blue-white-silver	Reebok Lifestyle	Classic Leather BRK SC	69.99	5
+www.zappos.com/reebok-lifestyle-kamikaze-ii-mid-black-flash-red-white	Reebok Lifestyle	Kamikaze II Mid	124.99	5
+www.zappos.com/macbeth-madrid-white-black	Macbeth	Madrid	60.00	5
+www.zappos.com/macbeth-eliot-vegan-black-gum	Macbeth	Eliot Vegan	55.00	4
+www.zappos.com/reebok-lifestyle-workout-mid-r12-black-grey-white-silver	Reebok Lifestyle	Workout Mid R12	74.99	4
+www.zappos.com/macbeth-hensley-black-white	Macbeth	Hensley	70.00	5
+www.zappos.com/reebok-lifestyle-reebok-royal-court-low-tin-grey-white-rivet-grey-reebok-royal	Reebok Lifestyle	Reebok Royal Court Low	59.99	5
+www.zappos.com/reebok-lifestyle-sh-newport-low-white-steel-brown-malt	Reebok Lifestyle	SH Newport Low	64.99	5
+www.zappos.com/reebok-lifestyle-reebok-royal-court-mid-cyclone-grey-black-excellent-red-white-reebok-royal	Reebok Lifestyle	Reebok Royal Court Mid	64.99	5
+www.zappos.com/reebok-lifestyle-reebok-royal-court-mid-black-white-rivet-grey-reebok-royal	Reebok Lifestyle	Reebok Royal Court Mid	64.99	5
+www.zappos.com/reebok-lifestyle-classic-leather-brk-sc-black-dark-grey-white-silver	Reebok Lifestyle	Classic Leather BRK SC	69.99	5
+www.zappos.com/reebok-lifestyle-kamikaze-ii-mid-black-white	Reebok Lifestyle	Kamikaze II Mid	124.99	5
+www.zappos.com/reebok-lifestyle-ex-o-fit-hi-clean-logo-r12-railroad-grey-club-blue-white-silver	Reebok Lifestyle	Ex-O-Fit Hi Clean Logo R12	74.99	5
+www.zappos.com/reebok-lifestyle-workout-mid-r12-railroad-grey-club-blue-white-silver	Reebok Lifestyle	Workout Mid R12	74.99	5
+www.zappos.com/reebok-lifestyle-reeamaze-mid-white-white	Reebok Lifestyle	ReeAmaze Mid	64.99	5
+www.zappos.com/reebok-lifestyle-reebok-royal-court-low-earth-luxe-blue-parchment-black-reebok-royal	Reebok Lifestyle	Reebok Royal Court Low	59.99	5
+www.zappos.com/reebok-lifestyle-ex-o-fit-hi-clean-logo-r12-white-white-white	Reebok Lifestyle	Ex-O-Fit Hi Clean Logo R12	74.99	5
+www.zappos.com/nike-benassi-solarsoft-slide-vivid-sulfur-sport-grey	Nike	Benassi Solarsoft Slide	30.00	5
+www.zappos.com/converse-chuck-taylor-all-star-knee-hi-x-hi-black	Converse	Chuck Taylor	65.00	5
+www.zappos.com/converse-wells-mid-black-jester-red-white	Converse	Wells Mid	60.00	5
+www.zappos.com/converse-chuck-taylor-all-star-washed-canvas-hi-stellar-washed	Converse	Chuck Taylor	70.00	5
+www.zappos.com/converse-wells-mid-pine-green-white-varsity-red	Converse	Wells Mid	60.00	5
+www.zappos.com/converse-chuck-taylor-all-star-washed-canvas-ox-drizzle-washed	Converse	Chuck Taylor	65.00	5
+www.zappos.com/converse-chuck-taylor-all-star-washed-canvas-ox-turtledove-washed	Converse	Chuck Taylor	65.00	5
+www.zappos.com/converse-chuck-taylor-all-star-knee-hi-x-hi-mirage-gray	Converse	Chuck Taylor	65.00	5
+www.zappos.com/converse-chuck-taylor-all-star-washed-canvas-hi-beluga-washed	Converse	Chuck Taylor	70.00	5
+www.zappos.com/reebok-lifestyle-es22-club-blue-cycle-blue-blue-blink-white-techy-red	Reebok Lifestyle	ES22	139.99	5
+www.zappos.com/polo-ralph-lauren-vance-hi-navy	Polo Ralph Lauren	Vance Hi	89.00	5
+www.zappos.com/dvs-shoe-company-torey-white-suede	DVS Shoe Company	Torey	66.00	5
+www.zappos.com/dvs-shoe-company-inmate-black-chambray	DVS Shoe Company	Inmate	60.00	4
+www.zappos.com/polo-ralph-lauren-vance-hi-grey	Polo Ralph Lauren	Vance Hi	89.00	4
+www.zappos.com/polo-ralph-lauren-vance-hi-black	Polo Ralph Lauren	Vance Hi	89.00	4
+www.zappos.com/polo-ralph-lauren-bienne-navy	Polo Ralph Lauren	Bienne	99.00	5
+www.zappos.com/polo-ralph-lauren-bienne-dark-brown	Polo Ralph Lauren	Bienne	99.00	5
+www.zappos.com/original-penguin-front-white-eclipse	Original Penguin	Front	99.00	3
+www.zappos.com/original-penguin-thaw-mesh-paloma	Original Penguin	Thaw Mesh	99.00	3
+www.zappos.com/original-penguin-melt-grasshopper	Original Penguin	Melt	99.00	1
+www.zappos.com/original-penguin-thaw-mesh-white-grasshopper	Original Penguin	Thaw Mesh	99.00	1
+www.zappos.com/original-penguin-torpengo-flinstone	Original Penguin	Torpengo	110.00	4
+www.zappos.com/donald-j-pliner-etie-black-indigo	Donald J Pliner	Etie	318.00	4
+www.zappos.com/donald-j-pliner-zan-sun	Donald J Pliner	Zan	228.00	4
+www.zappos.com/donald-j-pliner-etie-black-yellow	Donald J Pliner	Etie	318.00	4
+www.zappos.com/bikkembergs-bke105794-white-yellow	Bikkembergs	BKE105794	211.00	4
+www.zappos.com/diesel-pass-on-13-orange	Diesel	Pass On - 13	95.00	4
+www.zappos.com/diesel-gunner-on-13-black	Diesel	Gunner On - 13	110.00	4
+www.zappos.com/diesel-gunner-on-13-white-marigold	Diesel	Gunner On - 13	110.00	4
+www.zappos.com/diesel-korbin-ii-13-navy	Diesel	Korbin II - 13	120.00	4
+www.zappos.com/diesel-gunner-13-white-vaporous-gray	Diesel	Gunner - 13	100.00	4
+www.zappos.com/havaianas-brazil-logo-flip-flops-grey-lime-green	Havaianas	Brazil Logo Flip Flops	24.00	5
+www.zappos.com/santoni-paine-black	Santoni	Paine	535.00	5
+www.zappos.com/adidas-y-3-by-yohji-yamamoto-sprint-classic-white-black-orange	adidas Y-3 by Yohji Yamamoto	Sprint Classic	260.00	5
+www.zappos.com/outdoor-research-rocky-mountain-low-gaiters-black	Outdoor Research	Rocky Mountain Low Gaiters	32.50	5
+www.zappos.com/adidas-y-3-by-yohji-yamamoto-y-3-sala-white-black	adidas Y-3 by Yohji Yamamoto	Y-3 Sala	220.00	2
+www.zappos.com/outdoor-research-ultra-trail-gaiters-black	Outdoor Research	Ultra Trail Gaiters	45.00	5
+www.zappos.com/magnanni-zelo-grey	Magnanni	Zelo	475.00	4
+www.zappos.com/crocs-crocband-ii-black-graphite	Crocs	Crocband II	40.00	5
+www.zappos.com/crocs-crocband-ii-charcoal-light-grey	Crocs	Crocband II	40.00	5
+www.zappos.com/crocs-crocband-ii-petal-pink-lemonade	Crocs	Crocband II	40.00	5
+www.zappos.com/adidas-titan-metal-2-low-black-running-white-metallic-silver	adidas	Titan Metal 2 Low	60.00	5
+www.zappos.com/magnanni-dorio-blue-velvet	Magnanni	Dorio	285.00	5
+www.zappos.com/magnanni-rolo-mid-brown	Magnanni	Rolo	395.00	5
+www.zappos.com/magnanni-turia-brown	Magnanni	Turia	395.00	5
+www.zappos.com/magnanni-sarto-nobuka-marron	Magnanni	Sarto	350.00	5
+www.zappos.com/magnanni-almeria-mid-brown	Magnanni	Almeria	550.00	5
+www.zappos.com/magnanni-valencia-grey	Magnanni	Valencia	525.00	5
+www.zappos.com/ecco-biarritz-wing-tip-tie-black-scotchgrain-leather	ECCO	Biarritz Wing Tip Tie	190.00	5
+www.zappos.com/ecco-classic-moc-marine-suede	ECCO	Classic Moc	140.00	5
+www.zappos.com/magnanni-anton-saigon-marroon-franela-marron	Magnanni	Anton	495.00	5
+www.zappos.com/magnanni-andre-nobutalco-gris	Magnanni	Andre	425.00	5
+www.zappos.com/ecco-classic-moc-penny-black-milled-leather	ECCO	Classic Moc Penny	140.00	5
+www.zappos.com/element-topaz-antique-native	Element	Topaz	50.00	4
+www.zappos.com/ecco-biarritz-wing-tip-tie-cocoa-brown-scotchgrain-leather	ECCO	Biarritz Wing Tip Tie	190.00	5
+www.zappos.com/ecco-classic-moc-sepia-suede	ECCO	Classic Moc	140.00	5
+www.zappos.com/ecco-biarritz-chukka-boot-black-basalt	ECCO	Biarritz Chukka Boot	200.00	5
+www.zappos.com/ecco-classic-moc-penny-espresso-washed-nubuck	ECCO	Classic Moc Penny	140.00	5
+www.zappos.com/ecco-biarritz-plain-toe-tie-black-patent-leather	ECCO	Biarritz Plain Toe Tie	190.00	2
+www.zappos.com/saucony-originals-jazz-original-grey-burgundy	Saucony Originals	Jazz Original	50.00	5
+www.zappos.com/saucony-originals-jazz-low-pro-charcoal-orange	Saucony Originals	Jazz Low Pro	50.00	5
+www.zappos.com/teva-churn-ms-grey	Teva	Churn M's	90.00	4
+www.zappos.com/teva-hurricane-xlt-wavy-trail-red-orange	Teva	Hurricane XLT	60.00	5
+www.zappos.com/teva-churn-ms-red-ochre	Teva	Churn M's	90.00	4
+www.zappos.com/teva-dozer-iii-grey	Teva	Dozer III	75.00	4
+www.zappos.com/teva-toachi-2-charcoal-grey	Teva	Toachi 2	95.00	5
+www.zappos.com/oneill-surf-turkey-low-suede-dark-chocolate	O'Neill	Surf Turkey Low Suede	46.00	1
+www.zappos.com/sanuk-fraid-not-natural	Sanuk	Fraid Not	42.00	4
+www.zappos.com/sanuk-beer-cozy-black-grey	Sanuk	Beer Cozy	32.00	5
+www.zappos.com/sanuk-beer-cozy-navy	Sanuk	Beer Cozy	32.00	5
+www.zappos.com/justin-3904-rugged-tan	Justin	3904	129.00	5
+www.zappos.com/frye-sully-boat-burnt-red-oiled-suede	Frye	Sully Boat	148.00	4
+www.zappos.com/frye-sully-boat-charcoal-oiled-suede	Frye	Sully Boat	148.00	4
+www.zappos.com/frye-chambers-low-sand-suede-veg-tan	Frye	Chambers Low	128.00	2
+www.zappos.com/frye-sully-boat-whiskey-smooth-full-grain	Frye	Sully Boat	148.00	4
+www.zappos.com/frye-chambers-low-brown-suede-veg-tan	Frye	Chambers Low	128.00	2
+www.zappos.com/frye-chambers-cut-gore-olive-soft-vintage-leather	Frye	Chambers Cut Gore	128.00	2
+www.zappos.com/frye-chambers-low-navy-soft-vintage-leather	Frye	Chambers Low	128.00	2
+www.zappos.com/frye-sully-boat-tan-oiled-suede	Frye	Sully Boat	148.00	4
+www.zappos.com/clarks-un-taino-brown-leather	Clarks	Un.Taino	115.00	4
+www.zappos.com/clarks-un-sand-tan-leather	Clarks	Un.Sand	130.00	4
+www.zappos.com/clarks-un-caicos-brown-leather	Clarks	Un.Caicos	115.00	4
+www.zappos.com/clarks-un-sand-brown-nubuck	Clarks	Un.Sand	130.00	4
+www.zappos.com/clarks-un-sand-black-leather	Clarks	Un.Sand	130.00	4
+www.zappos.com/clarks-un-vincent-brown-leather	Clarks	Un.Vincent	120.00	4
+www.zappos.com/clarks-un-cape-brown-nubuck	Clarks	Un.Cape	130.00	4
+www.zappos.com/bogs-food-pro-high-steel-toe-black	Bogs	Food Pro High Steel Toe	131.95	4
+www.zappos.com/clarks-un-sand-taupe-nubuck-tan-leather	Clarks	Un.Sand	130.00	4
+www.zappos.com/clarks-un-vincent-black-leather	Clarks	Un.Vincent	120.00	4
+www.zappos.com/clarks-un-cape-taupe-brown-nubuck	Clarks	Un.Cape	130.00	4
+www.zappos.com/clarks-un-sand-taupe-nubuck	Clarks	Un.Sand	130.00	4
+www.zappos.com/clarks-un-caicos-tan-nubuck	Clarks	Un.Caicos	115.00	4
+www.zappos.com/clarks-un-sand-navy-nubuck	Clarks	Un.Sand	130.00	4
+www.zappos.com/bostonian-alito-brown	Bostonian	Alito	110.00	4
+www.zappos.com/clarks-un-cape-navy-brown-nubuck	Clarks	Un.Cape	130.00	4
+www.zappos.com/bostonian-corben-tan	Bostonian	Corben	110.00	4
+www.zappos.com/bostonian-alito-black	Bostonian	Alito	110.00	4
+www.zappos.com/bostonian-alito-tan	Bostonian	Alito	110.00	4
+www.zappos.com/ecco-sport-biom-chiappo-terrain-sandal-dark-shadow-fire-antelope-yak	ECCO Sport	Biom Chiappo Terrain Sandal	130.00	4
+www.zappos.com/bostonian-corben-black	Bostonian	Corben	110.00	4
+www.zappos.com/converse-jack-purcell-low-profile-slip-on-olive-drab	Converse	Jack Purcell	75.00	4
+www.zappos.com/ecco-classic-moc-perf-coffee-milled-leather	ECCO	Classic Moc Perf	140.00	4
+www.zappos.com/converse-chuck-taylor-all-star-studded-flag-well-worn-hi-turtledove-chili-pepper	Converse	Chuck Taylor	80.00	4
+www.zappos.com/converse-chuck-taylor-all-star-studded-flag-well-worn-turtledove-chili-pepper	Converse	Chuck Taylor	75.00	4
+www.zappos.com/ecco-collin-casual-slip-on-moonless-black	ECCO	Collin Casual Slip On	130.00	4
+www.zappos.com/ecco-collin-casual-tie-licorice-moonless	ECCO	Collin Casual Tie	130.00	4
+www.zappos.com/converse-wells-ox-deep-ultramarine-white-orange	Converse	Wells Ox	55.00	5
+www.zappos.com/ecco-sport-biom-chiappo-terrain-sandal-navajo-brown-terracotta-yak-tycoon	ECCO Sport	Biom Chiappo Terrain Sandal	130.00	5
+www.zappos.com/converse-chuck-taylor-all-star-street-hi-charcoal-gray	Converse	Chuck Taylor	60.00	5
+www.zappos.com/converse-wells-ox-black-blithe-white	Converse	Wells Ox	55.00	5
+www.zappos.com/converse-chuck-taylor-all-star-street-hi-black	Converse	Chuck Taylor	60.00	5
+www.zappos.com/converse-jack-purcell-low-profile-slip-on-n-iron	Converse	Jack Purcell	75.00	5
+www.zappos.com/ecco-biarritz-tie-espresso-starbuck	ECCO	Biarritz Tie	190.00	4
+www.zappos.com/ecco-biarritz-tie-dark-shadow	ECCO	Biarritz Tie	190.00	4
+www.zappos.com/ecco-collin-trend-tie-dark-clay	ECCO	Collin Trend Tie	140.00	4
+www.zappos.com/converse-chuck-taylor-all-star-side-zip-hi-black	Converse	Chuck Taylor	60.00	4
+www.zappos.com/converse-chuck-taylor-all-star-side-zip-hi-athletic-navy	Converse	Chuck Taylor	60.00	4
+www.zappos.com/adidas-commander-td-3-black-metallic-silver-tech-grey	adidas	Commander TD 3	70.00	5
+www.zappos.com/ecco-classic-moc-perf-beige-suede	ECCO	Classic Moc Perf	140.00	5
+www.zappos.com/ecco-collin-casual-slip-on-moonless-dark-clay	ECCO	Collin Casual Slip On	130.00	5
+www.zappos.com/ecco-collin-casual-tie-warm-grey-wild-dove	ECCO	Collin Casual Tie	130.00	5
+www.zappos.com/adidas-commander-td-3-black-running-white-bright-blue	adidas	Commander TD 3	70.00	5
+www.zappos.com/pf-flyers-center-hi-white-gum	PF Flyers	Center Hi	50.00	5
+www.zappos.com/pf-flyers-center-hi-brown-gum	PF Flyers	Center Hi	50.00	5
+www.zappos.com/pf-flyers-center-hi-navy-gum	PF Flyers	Center Hi	50.00	5
+www.zappos.com/pf-flyers-center-hi-black-gum	PF Flyers	Center Hi	50.00	5
+www.zappos.com/lakai-pico-green-white-suede	Lakai	Pico	62.00	5
+www.zappos.com/lakai-marc-black-suede-sp13	Lakai	Marc	68.00	4
+www.zappos.com/lakai-manchester-select-grey-gum-suede	Lakai	Manchester Select	61.00	5
+www.zappos.com/lakai-pico-grey-blue-suede	Lakai	Pico	62.00	5
+www.zappos.com/lakai-manchester-select-royal-blurr-suede	Lakai	Manchester Select	61.00	5
+www.zappos.com/lakai-marc-castlerock-suede	Lakai	Marc	68.00	4
+www.zappos.com/lakai-pico-black-gold-suede	Lakai	Pico	62.00	5
+www.zappos.com/lakai-manchester-select-red-lime-suede	Lakai	Manchester Select	61.00	5
+www.zappos.com/clarks-dude-donny-black-leather	Clarks	Dude Donny	65.00	5
+www.zappos.com/clarks-dude-lebo-olive-nubuck	Clarks	Dude Lebo	65.00	5
+www.zappos.com/clarks-dude-donny-brown-leather	Clarks	Dude Donny	65.00	5
+www.zappos.com/clarks-jax-navy-red-taupe-multi	Clarks	Jax	80.00	5
+www.zappos.com/clarks-dude-lebo-tan-nubuck	Clarks	Dude Lebo	65.00	5
+www.zappos.com/roper-opanka-double-gore-boot-tan	Roper	Opanka Double Gore Boot	120.00	5
+www.zappos.com/skechers-work-terrain-brown-black	SKECHERS Work	Terrain	84.99	5
+www.zappos.com/roper-opanka-double-gore-boot-brown	Roper	Opanka Double Gore Boot	120.00	5
+www.zappos.com/tommy-hilfiger-tadue-dark-brown	Tommy Hilfiger	Tadue	119.00	5
+www.zappos.com/tommy-hilfiger-chilo-brown	Tommy Hilfiger	Chilo	150.00	5
+www.zappos.com/tommy-hilfiger-bento-tan	Tommy Hilfiger	Bento	139.00	5
+www.zappos.com/tommy-hilfiger-tad-dark-brown	Tommy Hilfiger	Tad	119.00	5
+www.zappos.com/tommy-hilfiger-bent-black	Tommy Hilfiger	Bent	150.00	5
+www.zappos.com/tommy-hilfiger-fairly-dark-tan	Tommy Hilfiger	Fairly	129.00	5
+www.zappos.com/tommy-hilfiger-chilo-black	Tommy Hilfiger	Chilo	150.00	5
+www.zappos.com/tommy-hilfiger-chilo-grey	Tommy Hilfiger	Chilo	150.00	5
+www.zappos.com/tommy-hilfiger-fairly-black	Tommy Hilfiger	Fairly	129.00	5
+www.zappos.com/tommy-hilfiger-tad-sand	Tommy Hilfiger	Tad	119.00	5
+www.zappos.com/tommy-hilfiger-laine-black	Tommy Hilfiger	Laine	119.00	5
+www.zappos.com/lassen-niko-black	Lassen	Niko	89.00	5
+www.zappos.com/lassen-luca-black	Lassen	Luca	99.00	5
+www.zappos.com/lassen-joseph-black	Lassen	Joseph	99.00	5
+www.zappos.com/lassen-jack-black	Lassen	Jack	89.00	5
+www.zappos.com/lassen-niko-brown	Lassen	Niko	89.00	5
+www.zappos.com/lassen-luca-brown	Lassen	Luca	99.00	5
+www.zappos.com/lassen-joseph-brown	Lassen	Joseph	99.00	5
+www.zappos.com/diesel-pass-on-13-mint	Diesel	Pass On - 13	95.00	5
+www.zappos.com/puma-benny-dark-olive-brown	PUMA	Benny 	50.00	5
+www.zappos.com/puma-benny-black-white	PUMA	Benny 	50.00	5
+www.zappos.com/outdoor-research-flex-tex-gaiters-black	Outdoor Research	Flex-Tex Gaiters	42.50	5
+www.zappos.com/timberland-earthkeepers-hookset-oxford-blue-canvas	Timberland	Earthkeepers	75.00	5
+www.zappos.com/la-sportiva-raptor-gtx-black	La Sportiva	Raptor GTX	155.00	5
+www.zappos.com/timberland-earthkeepers-hookset-oxford-washed-black-canvas	Timberland	Earthkeepers	75.00	5
+www.zappos.com/mountrek-bridge-crossing-mid-black	Mountrek	Bridge Crossing Mid	138.00	5
+www.zappos.com/mountrek-bridge-crossing-mid-dark-brown	Mountrek	Bridge Crossing Mid	138.00	5
+www.zappos.com/nike-suketo-leather-black-deep-royal-blue-volt-anthracite	Nike	Suketo - Leather	72.00	5
+www.zappos.com/nike-mvp-keystone-low-black-black-white	Nike	MVP Keystone Low	40.00	5
+www.zappos.com/nike-mvp-keystone-low-black-white-varsity-red	Nike	MVP Keystone Low	40.00	5
+www.zappos.com/nike-mvp-keystone-low-black-white	Nike	MVP Keystone Low	40.00	5
+www.zappos.com/nike-mvp-keystone-low-black-white-deep-royal	Nike	MVP Keystone Low	40.00	5
+www.zappos.com/under-armour-ua-micro-g-defend-white-steel-steel	Under Armour	UA Micro G	84.99	5
+www.zappos.com/under-armour-ua-micro-g-defend-white-steel-red	Under Armour	UA Micro G	84.99	5
+www.zappos.com/under-armour-ua-micro-g-defend-black-silver	Under Armour	UA Micro G	84.99	5
+www.zappos.com/salvatore-ferragamo-terence-sneaker-nero	Salvatore Ferragamo	Terence Sneaker	450.00	5
+www.zappos.com/new-balance-m1080v3-white-blue	New Balance	M1080V3	134.95	5
+www.zappos.com/new-balance-m1080v3-red-green	New Balance	M1080V3	134.95	5
+www.zappos.com/new-balance-mt1210-grey-red	New Balance	MT1210	124.95	5
+www.zappos.com/frye-chambers-low-burnt-red-soft-vintage-leather	Frye	Chambers Low	128.00	2
+www.zappos.com/nike-ctr360-maestri-iii-fg-black-photo-blue-pink-flash-white	Nike	CTR360 Maestri III FG	200.00	2
+www.zappos.com/nike-t90-strike-iv-fg-volt-citron-black	Nike	T90 Strike IV FG	110.00	5
+www.zappos.com/frye-west-driver-whiskey-smooth-pull-up	Frye	West Driver	158.00	5
+www.zappos.com/nike-t90-strike-iv-fg-black-total-crimson-total-crimson	Nike	T90 Strike IV FG	110.00	5
+www.zappos.com/nike-dual-fusion-tr-iv-dark-grey-team-orange	Nike	Dual Fusion TR IV	75.00	5
+www.zappos.com/under-armour-ua-fthr-shield-steel-snorkel-black	Under Armour	UA FTHR Shield	99.99	5
+www.zappos.com/under-armour-ua-micro-g-defend-graphite-poison-black	Under Armour	UA Micro G	84.99	5
+www.zappos.com/under-armour-ua-fthr-shield-black-bitter-red	Under Armour	UA FTHR Shield	99.99	5
+www.zappos.com/under-armour-ua-micro-g-defend-aluminum-vivid-black	Under Armour	UA Micro G	84.99	5
+www.zappos.com/under-armour-ua-spine-venom-steel-black-red	Under Armour	UA Spine Venom	89.99	5
+www.zappos.com/under-armour-ua-charge-2-racer-bitter-neo-pulse-black	Under Armour	UA Charge 2 Racer	89.99	5
+www.zappos.com/under-armour-ua-micro-g-defend-bitter-charcoal-steel	Under Armour	UA Micro G	84.99	5
+www.zappos.com/under-armour-ua-micro-g-mantis-black-bitter-blaze-orange	Under Armour	UA Micro G	89.99	5
+www.zappos.com/under-armour-ua-micro-g-mantis-charcoal-blue-heat-white	Under Armour	UA Micro G	89.99	5
+www.zappos.com/under-armour-ua-spine-venom-charcoal-bitter-snorkel	Under Armour	UA Spine Venom	89.99	5
+www.zappos.com/adidas-trefoilssage-tech-grey-white-black	adidas	Trefoilssage	45.00	5
+www.zappos.com/under-armour-ua-micro-g-mantis-steel-charcoal-black-white	Under Armour	UA Micro G	89.99	5
+www.zappos.com/under-armour-ua-fthr-shield-charcoal-red-soldier-black	Under Armour	UA FTHR Shield	99.99	5
+www.zappos.com/under-armour-ua-ignite-camo-ii-sl-realtree-ap-utility-hunter-orange	Under Armour	UA Ignite Camo II SL	34.99	5
+www.zappos.com/under-armour-ua-spine-venom-black-white-charcoal-silver	Under Armour	UA Spine Venom	89.99	5
+www.zappos.com/palladium-pampa-sport-cuff-wp-indigo-white	Palladium	Pampa Sport Cuff WP	120.00	5
+www.zappos.com/adidas-running-spider-lite-neo-iron-metallic-black-metallic-silver	adidas Running	Spider Lite	85.00	5
+www.zappos.com/palladium-pampa-sport-cuff-wp-black-dark-gum	Palladium	Pampa Sport Cuff WP	120.00	5
+www.zappos.com/reef-drainer-brown	Reef	Drainer	38.00	5
+www.zappos.com/adidas-commander-td-3-black-vivid-yellow-tech-grey	adidas	Commander TD 3	70.00	5
+www.zappos.com/reef-realtree-slide-realtree	Reef	Realtree Slide	70.00	5
+www.zappos.com/reef-reef-playa-negra-print-brown	Reef	Reef Playa Negra Print	55.00	5
+www.zappos.com/reef-corsac-low-black	Reef	Corsac Low	55.00	5
+www.zappos.com/reef-corsac-low-brown-tan	Reef	Corsac Low	55.00	5
+www.zappos.com/reef-drainer-black	Reef	Drainer	38.00	5
+www.zappos.com/reef-drainer-bright-nights	Reef	Drainer	38.00	5
+www.zappos.com/reef-reef-playa-negra-print-black	Reef	Reef Playa Negra Print	55.00	5
+www.zappos.com/reef-reef-playa-negra-slide-black	Reef	Reef Playa Negra Slide	55.00	5
+www.zappos.com/dc-stag-pirate-black-white	DC	Stag	70.00	5
+www.zappos.com/reef-corsac-low-bright-nights	Reef	Corsac Low	55.00	5
+www.zappos.com/reef-corsac-low-sky	Reef	Corsac Low	55.00	5
+www.zappos.com/creative-recreation-cesario-lo-x-smoke-elephant-coral	Creative Recreation	Cesario Lo X	90.00	5
+www.zappos.com/converse-chuck-taylor-all-star-seasonal-ox-mirage-gray	Converse	Chuck Taylor	50.00	5
+www.zappos.com/adidas-commander-td-3-running-white-light-scarlet-black	adidas	Commander TD 3	70.00	5
+www.zappos.com/hoka-one-one-bondi-2-cyan-white-lime	Hoka One One	Bondi 2	160.00	5
+www.zappos.com/creative-recreation-cesario-lo-x-black-elephant-scarlet	Creative Recreation	Cesario Lo X	90.00	5
+www.zappos.com/creative-recreation-cesario-x-smoke	Creative Recreation	Cesario X	110.00	5
+www.zappos.com/hoka-one-one-stinson-evo-black-red-white	Hoka One One	Stinson Evo	170.00	5
+www.zappos.com/ralph-lauren-collection-kelby-flame-split-suede	Ralph Lauren Collection	Kelby	450.00	5
+www.zappos.com/rockport-cape-noble-2-venetian-bitter-chocolate-suede	Rockport	Cape Noble 2 Venetian	95.00	5
+www.zappos.com/lugz-strider-military-canvas-black-night-royal-white-military-canvas	Lugz	Strider Military Canvas	50.00	5
+www.zappos.com/rockport-cape-noble-2-venetian-ketchup-suede	Rockport	Cape Noble 2 Venetian	95.00	5
+www.zappos.com/new-balance-mb3000-metal-mid-cut-cleat-black-silver	New Balance	MB3000 Metal Mid-Cut Cleat	94.99	5
+www.zappos.com/lugz-strider-military-canvas-black-mars-red-military-canvas	Lugz	Strider Military Canvas	50.00	5
+www.zappos.com/quiksilver-engage-2-grey-dark-grey-blue	Quiksilver	Engage 2	29.00	5
+www.zappos.com/generic-surplus-wino-black-canvas	Generic Surplus	Wino	68.00	5
+www.zappos.com/generic-surplus-wino-hydro-canvas	Generic Surplus	Wino	68.00	5
+www.zappos.com/generic-surplus-wino-sierra-canvas	Generic Surplus	Wino	68.00	5
+www.zappos.com/generic-surplus-high-top-for-obey-breen-canvas	Generic Surplus	High Top for Obey	77.00	5
+www.zappos.com/generic-surplus-high-top-for-obey-indigo-canvas	Generic Surplus	High Top for Obey	77.00	5
+www.zappos.com/tony-lama-rr3303-briar-grizzly	Tony Lama	RR3303	179.00	5
+www.zappos.com/dr-martens-affleck-brogue-boot-oxblood-patent-lamper	Dr. Martens	Affleck Brogue Boot	140.00	5
+www.zappos.com/dr-martens-affleck-brogue-boot-black-patent-lamper	Dr. Martens	Affleck Brogue Boot	140.00	5
+www.zappos.com/dr-martens-affleck-brogue-boot-black-off-white-smooth	Dr. Martens	Affleck Brogue Boot	135.00	5
+www.zappos.com/dr-martens-affleck-brogue-boot-english-tan-analine	Dr. Martens	Affleck Brogue Boot	140.00	5
+www.zappos.com/dr-martens-anthony-brogue-boot-black-blue-smooth-slice	Dr. Martens	Anthony Brogue Boot	140.00	5
+www.zappos.com/dr-martens-1461-c-3-eye-shoe-cherry-red-smooth	Dr. Martens	1461-C 3-Eye Shoe	120.00	5
+www.zappos.com/dr-martens-1461-c-3-eye-shoe-black-smooth	Dr. Martens	1461-C 3-Eye Shoe	120.00	5
+www.zappos.com/clae-evans-black-leather	Clae	Evans	120.00	5
+www.zappos.com/clae-newman-tan-camouflage	Clae	Newman	85.00	5
+www.zappos.com/clae-russell-black-mesh	Clae	Russell	110.00	5
+www.zappos.com/clae-newman-black-camouflage	Clae	Newman	85.00	5
+www.zappos.com/clae-strayhorn-pavement-leather	Clae	Strayhorn	120.00	4
+www.zappos.com/clae-russell-deep-navy-pavement	Clae	Russell	110.00	5
+www.zappos.com/havaianas-trend-flip-flops-black-green	Havaianas	Trend Flip Flops	26.00	5
+www.zappos.com/havaianas-trend-flip-flops-ice-grey	Havaianas	Trend Flip Flops	26.00	5
+www.zappos.com/havaianas-power-flip-flops-grey-black	Havaianas	Power Flip Flops	36.00	5
+www.zappos.com/havaianas-urban-premium-flip-flops-grey-dark-grey	Havaianas	Urban Premium Flip Flops	40.00	5
+www.zappos.com/skechers-work-alp-brown-black	SKECHERS Work	Alp	79.99	5
+www.zappos.com/skechers-work-pennacle-black	SKECHERS Work	Pennacle	89.99	5
+www.zappos.com/altra-zero-drop-footwear-the-torin-blue-white	Altra Zero Drop Footwear	The Torin	115.00	5
+www.zappos.com/altra-zero-drop-footwear-the-torin-black-green	Altra Zero Drop Footwear	The Torin	115.00	5
+www.zappos.com/lugz-strider-military-canvas-warm-grey-white-flash-yellow-military-canvas	Lugz	Strider Military Canvas	50.00	5
+www.zappos.com/woodlore-suede-nubuck-cleaning-system-n-a	Woodlore	Suede 	9.95	4
+www.zappos.com/woodlore-mens-full-shoe-trees-cedar	Woodlore	Men's Full Shoe Trees	24.95	5
+www.zappos.com/woodlore-mens-ultra-shoe-tree-cedar	Woodlore	Men's Ultra Shoe Tree	34.95	5
+www.zappos.com/steve-madden-novo-dark-brown	Steve Madden	Novo	79.95	4
+www.zappos.com/spenco-polysorb-heavy-duty-insole-gold	Spenco	PolySorb Heavy Duty Insole	19.99	4
+www.zappos.com/spenco-rx-full-arch-cushion-insole-green	Spenco	RX Full Arch Cushion Insole	19.99	4
+www.zappos.com/reef-deck-hand-2-murdered	Reef	Deck Hand 2	55.00	5
+www.zappos.com/k-swiss-bigshot-light-white-black-fiery-red	K-Swiss	Bigshot Light	93.50	5
+www.zappos.com/k-swiss-bigshot-light-white-black-brilliant-blue	K-Swiss	Bigshot Light	93.50	5
+www.zappos.com/k-swiss-bigshot-light-black-brilliant-blue-charcoal	K-Swiss	Bigshot Light	93.50	5
+www.zappos.com/nike-lunareclipse-3-sport-grey-pimento-midnight-fog-reflective-silver	Nike	Lunareclipse+ 3	135.00	4
+www.zappos.com/nike-celso-motion-thong-black-black-midnight-fog	Nike	Celso Motion Thong	50.00	4
+www.zappos.com/nike-air-max-actualizer-game-royal-black-dark-royal-blue-white	Nike	Air Max Actualizer	85.00	4
+www.zappos.com/adidas-adipure-trainer-360-vivid-yellow-black	adidas	adipure	85.00	4
+www.zappos.com/adidas-adipure-slide-sc-tech-onix-grey-rock-vivid-yellow	adidas	adipure	35.00	4
+www.zappos.com/adidas-adizero-cc-feather-2-0-black-running-white-vivid-yellow	adidas	adizero	135.00	4
+www.zappos.com/adidas-adipure-trainer-360-black-green-zest	adidas	adipure	85.00	4
+www.zappos.com/adidas-mad-handle-tech-grey-running-white-electricity	adidas	Mad Handle	80.00	4
+www.zappos.com/nike-free-trainer-3-0-black-metallic-silver-black	Nike	Free Trainer 3.0	110.00	4
+www.zappos.com/keen-maderas-lace-black-olive	Keen	Maderas Lace	60.00	4
+www.zappos.com/keen-maderas-lace-neutral-gray~2	Keen	Maderas Lace	60.00	4
+www.zappos.com/adidas-adipure-trainer-360-dark-blue-vivid-yellow	adidas	adipure	85.00	4
+www.zappos.com/keen-maderas-slip-on-black-olive	Keen	Maderas Slip-On	60.00	4
+www.zappos.com/keen-maderas-oxford-ensign-blue~1	Keen	Maderas Oxford	60.00	4
+www.zappos.com/adidas-speedcut-trainer-vivid-red-black-running-white	adidas	SPEEDCUT	100.00	4
+www.zappos.com/adidas-mad-handle-black-running-white-metallic-silver	adidas	Mad Handle	80.00	4
+www.zappos.com/adidas-hoop-fury-black-running-white-light-scarlet	adidas	Hoop Fury	75.00	4
+www.zappos.com/adidas-mad-handle-black-joy-blue-tech-grey	adidas	Mad Handle	80.00	4
+www.zappos.com/adidas-mad-handle-black-running-white-light-scarlet	adidas	Mad Handle	80.00	4
+www.zappos.com/adidas-adipure-slide-sc-black-dark-onix	adidas	adipure	35.00	4
+www.zappos.com/keen-maderas-lace-ensign-blue~2	Keen	Maderas Lace	60.00	4
+www.zappos.com/keen-maderas-slip-on-neutral-gray~2	Keen	Maderas Slip-On	60.00	4
+www.zappos.com/keen-maderas-slip-on-ensign-blue~1	Keen	Maderas Slip-On	60.00	4
+www.zappos.com/adidas-mad-handle-running-white-bright-blue-black	adidas	Mad Handle	80.00	4
+www.zappos.com/adidas-hoop-fury-running-white-bright-blue-black	adidas	Hoop Fury	75.00	4
+www.zappos.com/adidas-adipure-trainer-360-dark-onix-neo-iron-metallic-light-scarlet	adidas	adipure	85.00	4
+www.zappos.com/keen-kona-flip-ensign-blue-gargoyle	Keen	Kona Flip	50.00	4
+www.zappos.com/reef-reef-playa-negra-brown-grey	Reef	Reef Playa Negra	50.00	5
+www.zappos.com/adidas-adipure-trainer-360-clear-grey-metallic-silver-yellow-zest	adidas	adipure	85.00	5
+www.zappos.com/adidas-speedcut-trainer-running-white-black-matte-silver	adidas	SPEEDCUT	100.00	5
+www.zappos.com/avia-avi-shuffle-a316m-black-lemon-yellow	Avia	Avi-Shuffle - A316M	50.00	5
+www.zappos.com/keen-kona-flip-cascade-brown-gargoyle	Keen	Kona Flip	50.00	5
+www.zappos.com/keen-kona-flip-black-gargoyle	Keen	Kona Flip	50.00	5
+www.zappos.com/avia-avi-maximus-a1626m-black-royal-blue-lime-shock	Avia	Avi-Maximus - A1626M	80.00	5
+www.zappos.com/dc-spartan-hi-wc-dc-navy-athletic-red	DC	Spartan Hi WC	80.00	5
+www.zappos.com/avia-avi-maximus-a1626m-black-red-flag	Avia	Avi-Maximus - A1626M	80.00	5
+www.zappos.com/dc-pure-black-white-red	DC	Pure	60.00	5
+www.zappos.com/dc-bristol-tx-dark-purple-white	DC	Bristol TX	55.00	5
+www.zappos.com/dc-pure-black-fluorescent-orange	DC	Pure	60.00	5
+www.zappos.com/dc-pure-tx-black-armor-soft-lime	DC	Pure TX	60.00	5
+www.zappos.com/dc-cabo-rasta	DC	Cabo	35.00	5
+www.zappos.com/dc-court-graffik-black-white-gum	DC	Court Graffik	60.00	5
+www.zappos.com/dc-central-red-black	DC	Central	22.00	5
+www.zappos.com/dc-central-dark-grey-black	DC	Central	22.00	5
+www.zappos.com/converse-chuck-taylor-all-star-seasonal-ox-jester-red	Converse	Chuck Taylor	50.00	5
+www.zappos.com/converse-chuck-taylor-all-star-seasonal-ox-deep-ultramarine	Converse	Chuck Taylor	50.00	5
