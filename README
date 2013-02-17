@@ -1,0 +1,6 @@
+This program gets a listing of all the mens shoes on zappos and stores them one shoe per line on output file of your choosing. An example of a shoe from the list is below with a description of the entry below it
+
+www.zappos.com/rockport-main-route-northfield-dark-brown-leather	Rockport	Main Route Northfield	100.00	5
+^Web address of the shoe 						^brand		^product name		^price	^rating
+
+There is also a subclass of the Shoe class called Nike, nothing is done with that so far but can be implemented to do something later.
